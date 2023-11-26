@@ -1,0 +1,13 @@
+
+obj/project.nuget.cache
+.vs/lock/v17/.suo
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/lock.AssemblyInfo.cs
+obj/Debug/net6.0/lock.AssemblyInfoInputs.cache
+obj/Debug/net6.0/lock.assets.cache
+obj/Debug/net6.0/lock.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/lock.GlobalUsings.g.cs
+obj/lock.csproj.nuget.dgspec.json
+obj/lock.csproj.nuget.g.props
+obj/lock.csproj.nuget.g.targets
+obj/project.assets.json
