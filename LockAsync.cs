@@ -35,5 +35,4 @@ public class LockAsync
             _lock.Release();
         }
     }
-
 }
